@@ -24,7 +24,7 @@ Este projeto é uma ferramenta para baixar vídeos do YouTube utilizando a bibli
 Certifique-se de que você tem o Python 3 instalado em sua máquina. Para verificar, abra o terminal e execute:
 
 ```bash
-python --version
+python --version```
 
 2. Instalar Dependências 📦
 
