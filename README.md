@@ -50,6 +50,21 @@ sudo apt install ffmpeg
 - Extraia o conteúdo do arquivo ZIP em uma pasta de sua escolha.
 - Adicione o caminho para o executável do FFmpeg (por exemplo, `C:\ffmpeg\bin\ffmpeg.exe`) nas variáveis de ambiente do sistema.
 
+**Para Android:**
+
+Baixe um aplicativo que suporte o FFmpeg, como o Termux.
+
+Abra o Termux e execute os comandos abaixo para instalar o FFmpeg:
+```bash
+pkg update && pkg upgrade  
+pkg install ffmpeg```
+
+Após a instalação, você pode usar o FFmpeg diretamente no Termux para processar arquivos multimídia.
+
+
+Se necessário, forneça permissões de acesso a arquivos para que o Termux possa acessar seus vídeos ou áudios no dispositivo.
+
+
 ### 4. Rodar o Script ▶️
 
 Após as dependências estarem instaladas, você pode rodar o script Python. Abra o terminal e navegue até o diretório onde o arquivo Python ([YTD.py](ytd.py)) está localizado. Em seguida, execute:
