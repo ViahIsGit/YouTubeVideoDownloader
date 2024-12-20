@@ -52,10 +52,10 @@ sudo apt install ffmpeg
 
 ### 4. Rodar o Script ▶️
 
-Após as dependências estarem instaladas, você pode rodar o script Python. Abra o terminal e navegue até o diretório onde o arquivo Python (`YTD.py`) está localizado. Em seguida, execute:
+Após as dependências estarem instaladas, você pode rodar o script Python. Abra o terminal e navegue até o diretório onde o arquivo Python ([YTD.py](ytd.py)) está localizado. Em seguida, execute:
 
 ```bash
-python YTD.py
+python ytd.py
 ```
 
 Isso abrirá a interface gráfica do Tkinter, onde você poderá inserir a URL do vídeo do YouTube e escolher o diretório de destino para o download.
@@ -69,4 +69,4 @@ Isso abrirá a interface gráfica do Tkinter, onde você poderá inserir a URL d
 
 ## Licença 🛡️
 
-Este projeto é licenciado sob a [MIT License](LICENSE). 📝
+Este projeto é licenciado sob a [Apache](LICENSE). 📝
